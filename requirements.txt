@@ -1,0 +1,7 @@
+torch>=2.0.0
+onnx>=1.14.0
+onnxruntime-gpu>=1.15.0
+numpy>=1.24.0
+Pillow>=9.5.0
+einops>=0.6.0
+matplotlib>=3.7.0
