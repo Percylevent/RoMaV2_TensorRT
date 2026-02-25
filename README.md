@@ -118,6 +118,16 @@ If you use this code, please cite the original RoMaV2 paper:
 }
 ```
 
+## 🤝 Contact the Author
+
+Feel free to reach out if you have any questions or suggestions regarding this project.
+
+- **Institution**: Shanghai Jiao Tong University
+- **Email**: [zhangpengcheng@sjtu.edu.cn](mailto:zhangpengcheng@sjtu.edu.cn)
+- **GitHub**: [https://github.com/Percylevent](https://github.com/Percylevent)
+
+If you find this project helpful, please give it a ⭐️ Star!
+
 ## License
 
 Follow the license terms of the original RoMaV2 repository.
